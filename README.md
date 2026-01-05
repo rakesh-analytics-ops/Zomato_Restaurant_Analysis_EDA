@@ -12,6 +12,25 @@ This project focuses on end-to-end data analysis and machine learning to extract
 The workflow follows a structured data science approach — starting from dataset understanding and cleaning, moving through exploratory data analysis (EDA), feature engineering, and finally applying machine learning models with proper evaluation and tuning.
 
 ---
+## 🚀 Live Demo
+🔗 https://rakeshmahakur555-zomato-rating-predictor.hf.space
+
+## 🧠 Model Details
+- Algorithm: Logistic Regression
+- Text Vectorization: TF-IDF
+- Task: Binary Classification (High vs Low Rating)
+
+## 🛠 Tech Stack
+- Python
+- Scikit-learn
+- Streamlit
+- Docker
+- Hugging Face Spaces
+
+## 📌 Features
+- Real-time prediction from customer reviews
+- End-to-end ML pipeline
+- Production deployment with Docker
 
 zomato_streamlit_app/
 │
@@ -19,6 +38,9 @@ zomato_streamlit_app/
 ├── model.pkl
 ├── tfidf.pkl
 ├── requirements.txt
+
+app URL
+https://rakeshmahakur555-zomato-rating-predictor.hf.space
 
 
 ## 🎯 Problem Statement
