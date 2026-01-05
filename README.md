@@ -13,6 +13,14 @@ The workflow follows a structured data science approach — starting from datase
 
 ---
 
+zomato_streamlit_app/
+│
+├── app.py
+├── model.pkl
+├── tfidf.pkl
+├── requirements.txt
+
+
 ## 🎯 Problem Statement
 
 The objective of this project is to analyze Zomato restaurant data to identify the key factors influencing customer ratings and reviews. Based on these insights, machine learning models are built to predict restaurant ratings using features such as pricing, cuisine type, location, and customer engagement.
